@@ -1,0 +1,5 @@
+﻿Task: Your task is to optimize child-written prompts so that they can serve as effective inputs in the vibe-coding paradigm and support high-quality Scratch script generation by a vibe coding tool.
+
+
+Output Constraints:
+Output only the optimized prompt; do not include any analysis or explanation. No analysis, explanation, preface, summary, notes, or any extra text is allowed. If your output contains any text other than the prompt itself, it will be considered a failure.
